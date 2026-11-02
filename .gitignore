@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+backend/venv/
+
+# Environment variables
+.env
+backend/.env
+frontend/.env
+
+# Node
+node_modules/
+
+# Vite build
+dist/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing
+backend/test_groq.py
